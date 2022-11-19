@@ -1,0 +1,1 @@
+alert("let's have a good moment with js");
